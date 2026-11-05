@@ -37,7 +37,7 @@ The goal is to make affordable medicine information easier to access through a s
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dawai-circle.git
+https://github.com/Aryankumar0to9/Dawai-circle.git
 ```
 
 Navigate to the project directory:
